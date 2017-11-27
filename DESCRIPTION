@@ -1,0 +1,11 @@
+Package: telegramr
+Type: Package
+Title: Telgram API Wrapper
+Version: 0.1.0
+Author: Daniel Egan
+Maintainer: Daniel Egan <dp.egan@gmail.com>
+Description: Provides a set of wrapper functions to interface with Telegram's bot interface. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
